@@ -1,0 +1,32 @@
+Cascading Style Sheets(CSS)
+1.Inline CSS
+2.Internal CSS
+3.External CSS
+
+1.Inline CSS:
+
+<h1 style='color:red;'>Hello SVCE</h1>
+
+
+2.internal css
+
+<style></style>
+
+3.External CSS
+
+<link rel='stylesheet' type='css' href='style.css'>
+
+https://flukeout.github.io/
+
+
+https://www.computerhope.com/htmcolor.htm
+
+
+1.inline css
+2.internal css
+3.external css
+
+
+
+
+
